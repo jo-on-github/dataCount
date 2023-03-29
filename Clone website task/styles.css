@@ -1,7 +1,12 @@
 /* Set the background color */
+:root {
+  --background-color: rgb(230, 208, 10);
+}
+
+
 body {
-    background-color: rgb(230, 208, 10);
-    margin: 0;
+  background-color: var(--background-color);
+    margin: 50;
   }
   
   /* Style the header */
@@ -10,7 +15,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: #fff;
+    background-color: var(--background-color);
   }
   
   /* Style the left side of the header */
@@ -67,8 +72,17 @@ body {
   }
   
   /* Style the text box */
-  .textbox {
-    margin-right: 10px;
+  .textboxUber {
+    margin-right: 1px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--background-color);
+  }
+
+  .textboxEats {
+    margin-right: 1px;
     padding: 10px;
     font-size: 16px;
     border: none;
@@ -104,4 +118,4 @@ body {
     font-size: 20px;
     color: #fff;
    
-  
+  }
