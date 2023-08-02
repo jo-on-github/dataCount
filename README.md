@@ -8,3 +8,4 @@ I have been asked to keep track of how many records I have updated each day.
 I thought why not make it fun and build a simple counter tool using vanilla JavaScript to refresh my memory and keep the skills up!
 
 This side project will be a fun page to add to and build on as the days go by!
+Demo: https://twitter.com/Jo_On_Code/status/1686480681369489410?s=20 
