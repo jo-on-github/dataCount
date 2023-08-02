@@ -9,4 +9,5 @@ I have been asked to keep track of how many records I have updated each day.
 I thought why not make it fun and build a simple counter tool using vanilla JavaScript to refresh my memory and keep the skills up!
 
 This side project will be a fun page to add to and build on as the days go by!
-Demo: https://twitter.com/Jo_On_Code/status/1686480681369489410?s=20 
+<img width="299" alt="image" src="https://github.com/jo-on-github/dataCount/assets/125663254/3e18b02b-0422-430e-a195-af7e7cf49c83">
+
